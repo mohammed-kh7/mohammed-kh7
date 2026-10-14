@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,100:1E88E5&height=130&section=header&text=Tech%20Stack&fontSize=38&fontColor=FFFFFF&fontAlignY=38" width="100%" alt="Mohammed Khudair" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,100:1E88E5&height=130&section=header&text=Mohammed%20Khudair&fontSize=38&fontColor=FFFFFF&fontAlignY=38" width="100%" alt="Mohammed Khudair" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=720&height=50&lines=Front-End+Developer;AI+Automation+Specialist+%28n8n%29;I+turn+ideas+into+fast+web+interfaces;I+turn+manual+work+into+smart+workflows" alt="Typing animation" />
