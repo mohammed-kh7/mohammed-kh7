@@ -80,8 +80,6 @@
 <a href="https://www.upwork.com/freelancers/~01f01b9da42f6327f5"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
 <a href="https://mostaql.com/u/hamoodkh"><img src="https://img.shields.io/badge/Mostaql-2386C8?style=for-the-badge&logo=freelancer&logoColor=white" alt="Mostaql" /></a>
 
-<br />
-<br />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,100:1E88E5&height=100&section=footer" width="100%" alt="" />
 
