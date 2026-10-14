@@ -1,5 +1,4 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,100:1E88E5&height=120&section=footer" width="100%" alt="Header Wave" />
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,100:1E88E5&height=120&section=header" width="100%" alt="Header Wave" />
   <!-- الصورة بالأعلى -->
   <img src="./assets/banner.jpg" alt="Eng. Mohammed Khudair - Web Developer & Automation Specialist (n8n)" width="100%" />
