@@ -19,12 +19,12 @@
 > I build **clean, fast and responsive web interfaces** and design **smart n8n workflows** that connect APIs, Google Sheets and AI tools, so repetitive manual work runs on its own and saves real time.
 
 <div align="center">
-
+<br />
 <img src="https://img.shields.io/badge/💼_Front--End_Development-0D1B2A?style=for-the-badge" alt="Front-End Development" />
 <img src="https://img.shields.io/badge/🤖_AI_Automation-0D1B2A?style=for-the-badge" alt="AI Automation" />
 <img src="https://img.shields.io/badge/⚙️_Workflow_Design-0D1B2A?style=for-the-badge" alt="Workflow Design" />
 
-<br />
+  <br />
 <br />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,100:1E88E5&height=130&section=header&text=Tech%20Stack&fontSize=38&fontColor=FFFFFF&fontAlignY=38" width="100%" alt="Tech Stack" />
